@@ -1,0 +1,12 @@
+build/
+build-*/
+cmake-build-*/
+*.o
+*.a
+*.so
+.cache/
+compile_commands.json
+.vscode/
+.idea/
+docs/
+GLOSSARY.md
